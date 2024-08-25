@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "FeatureFlag\\": "src/FeatureFlag"
+        }
+    },
+    "require": {
+        "configcat/configcat-client": "^9.2"
+    }
+}
